@@ -1,18 +1,16 @@
-## Getting Started
+# Exercício Map – Carros Populares
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto é um exercício de manipulação de `Map` em Java, que trabalha com modelos de carros e seus respectivos consumos (km/l).  
 
-## Folder Structure
+O código faz o seguinte:
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Cria um dicionário (`Map`) com carros e seus consumos.
+2. Substitui o consumo de um modelo específico.
+3. Verifica a existência de um modelo no dicionário.
+4. Exibe o consumo de um carro específico.
+5. Lista os modelos e os consumos.
+6. Identifica o modelo mais econômico e o menos econômico.
+7. Calcula a soma e a média dos consumos.
+8. Remove carros com determinado consumo.
+9. Exibe os carros na ordem de inserção e ordenados pelo modelo.
+10. Limpa o dicionário e verifica se está vazio.
